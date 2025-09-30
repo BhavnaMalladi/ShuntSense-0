@@ -43,9 +43,6 @@ The user interface is inspired by Google's Material 3 design principles, adapted
 -   **Platform:** iOS 16.0+
 -   **IDE:** Xcode 15+
 
-## Getting Started
-
-To get a local copy up and running, follow these simple steps.
 
 ### Prerequisites
 
